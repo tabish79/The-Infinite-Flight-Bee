@@ -1,4 +1,4 @@
-# play_with_bee
+# The Infinite Flight Bee
 
 ## An endless runner game where players take on the role of a cheerful and adventurous bee named Buzz. 
 
